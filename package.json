@@ -1,0 +1,21 @@
+{
+    "name": "cstyle",
+    "version": "1.8.6",
+    "description": "Cascading Style Content Supplier, the JavaScript library transforming styling into a seamless experience with intuitive utility classes.",
+    "main": "index.js",
+    "scripts": {
+        "test": "code tests/scripts.js"
+    },
+    "keywords": [
+        "StylerX",
+        "Javascript",
+        "CSS",
+        "coding",
+        "cstyle"
+    ], 
+    "author": "nvmPratyush",
+    "license": "Apache 2.0",
+    "dependant": {
+        "npm": "https://www.npmjs.com/"
+    }
+}
