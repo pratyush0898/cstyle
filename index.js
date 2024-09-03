@@ -1,7 +1,7 @@
-import './css/csX.css'
+import './css/cstyle.css'
 
 function Cstyle() {
-    const cstyle = require('./css/csX.css');
+    const cstyle = require('./css/cstyle.css');
     return cstyle
 }
 

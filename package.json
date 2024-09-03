@@ -1,8 +1,10 @@
 {
     "name": "cstyle",
-    "version": "1.8.6",
-    "description": "Cascading Style Content Supplier, the JavaScript library transforming styling into a seamless experience with intuitive utility classes.",
+    "version": "1.8.7",
+    "description": "A modern CSS framework designed to effortlessly elevate the styling of your web applications with simplicity and flexibility.",
     "main": "index.js",
+    "repository": "https://github.com/pratyush0898/cstyle.git",
+    "bugs": "https://github.com/pratyush0898/cstyle/issues",
     "scripts": {
         "test": "code tests/scripts.js"
     },
@@ -14,8 +16,5 @@
         "cstyle"
     ], 
     "author": "nvmPratyush",
-    "license": "Apache 2.0",
-    "dependant": {
-        "npm": "https://www.npmjs.com/"
-    }
+    "license": "Apache 2.0"
 }

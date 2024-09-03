@@ -1,8 +1,8 @@
 # cstyle
 
-**Cascading Styles**
+**Cstyle**
 
-`cstyle` is a CSS framework that's an Alternative of bootstrap, allowing you to enhance the styling of your web applications effortlessly.
+A modern CSS framework designed to effortlessly elevate the styling of your web applications with simplicity and flexibility.
 
 ## Installation
 
@@ -20,7 +20,7 @@ Once installed, you can import `cstyle` into your JavaScript file and start usin
 
 ```javascript
 // Import the CSS directly into your JavaScript
-import 'cstyle';
+import Cstyle from 'cstyle';
 
 // Start using the styles
 
@@ -37,26 +37,18 @@ function App() {
 ### Import css
 If theJavascript methord dosent work you can import `csX.css` file and start using the `csX.css` styles:
 ```javascript
-import './node-module/cstyle/css/csX.css';
-// or
-import '/cstyle/css/csX.css';
+import 'cstyle/css/csX.css';
 ```
 
 ### HTML
 
-You can also include the `csX.css` file directly in your HTML file using a `<link>` tag:
+You can also include the `cstyle.css` file directly in your HTML file using a `<link>` tag:
 
 ```html
-<link rel="stylesheet" type="text/css" href="https://unpkg.com/cstyle@1.8.6/css/csX.css">
+<link rel="stylesheet" type="text/css" href="https://unpkg.com/cstyle@1.8.7/css/cstyle.css">
 ```
 
 Now you can use the `csX.css` styles in your project to create visually appealing and responsive designs.
-
-**Javascript**
-For some design Your cam import JavaScript using `<script>` tag:
-```html
-<script src="https://unpkg.com/cstyle@1.8.6/csX.min.js.map.css"></script>
-```
 
 ## Features
 
@@ -66,7 +58,7 @@ For some design Your cam import JavaScript using `<script>` tag:
 
 ## License
 
-This package is licensed under the Apache 2.0 License. See the [LICENSE](https://unpkg.com/cstyle@1.8.6/LICENSE) for details.
+This package is licensed under the Apache 2.0 License. See the [LICENSE](https://unpkg.com/cstyle@1.8.7/LICENSE) for details.
 
 ## Author
 
